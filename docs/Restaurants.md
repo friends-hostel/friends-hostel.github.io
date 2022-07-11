@@ -13,7 +13,7 @@ You will find many nice Resaurants here. This are our favourite ones.
 
 Best Falafel
 
-![The-Best-Homemade-Hummus-Recipe-1200.jpg](/Users/akram/Desktop/friends-hostel.github.io/docs/assets/The-Best-Homemade-Hummus-Recipe-1200.jpg)
+![The-Best-Homemade-Hummus-Recipe-1200.jpg](assets/The-Best-Homemade-Hummus-Recipe-1200.jpg)
 
 
 
