@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Friends Hostel, Hebron',
+        title: 'Friends Hostel',
         
         items: [
           {
@@ -67,19 +67,7 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            label: 'Pages',
-            position: 'left',
-            items: [
-              {to: '/about', label: 'About'},
-            ],
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+     
         ],
       },
       footer: {
