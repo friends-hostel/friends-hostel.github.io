@@ -65,10 +65,23 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Welcome',
+          },
+          {
+            type: 'doc',
+            docId: 'Tours',
+            position: 'left',
+            label: 'Tours',
+          },
+          {
+            type: 'doc',
+            docId: 'Restaurants',
+            position: 'left',
+            label: 'Restaurants',
           },
      
         ],
+        
       },
       footer: {
         style: 'dark',
