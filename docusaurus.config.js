@@ -58,11 +58,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Friends Hostel',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: 'Friends Hostel, Hebron',
+        
         items: [
           {
             type: 'doc',
