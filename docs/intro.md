@@ -2,9 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to Hebron
 
-Let's discover **Docusaurus in less than 5 minutes**.
+
+
+Let's discover **Hebron in less than 5 minutes**.
+
+![Hebron.jpg](assets/6f756a49bbf5f83c09ff005055582feae294d3cd.jpg)
 
 ## Getting Started
 
