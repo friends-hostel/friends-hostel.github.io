@@ -9,7 +9,7 @@ const config = {
   title: 'Friends Hostel',
   tagline: 'Hebron, Palestine',
   url: 'https://friends-hostel.github.io',
-  baseUrl: '/docusaurus-templates/', // For github.io/docusaurus-templates/
+  baseUrl: '/', // For github.io/docusaurus-templates/
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
